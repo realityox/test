@@ -6,5 +6,6 @@ class test
 		System.out.println("HI");
 		System.out.println("TEST");
 		System.out.println("TEST");
+		System.out.println("TEST1");
 	}
 }
