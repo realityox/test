@@ -1,0 +1,4 @@
+main()
+{
+	cout<<"HI"<<endl;
+}
