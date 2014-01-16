@@ -5,5 +5,6 @@ class test
 		System.out.println("HELLO");
 		System.out.println("HI");
 		System.out.println("TEST");
+		System.out.println("TEST");
 	}
 }
